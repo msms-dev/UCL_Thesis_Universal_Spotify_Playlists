@@ -1,5 +1,6 @@
 🎯 Purpose : 
   Assist Universal Music Group (UMG) utilise their internal data to enhance their understanding of Spotify’s emerging editorial playlists and to facilitate the success of playlist pitching by their labels’ marketing teams. 
+  
 🔍 Reason: 
   UCL Msc Business Analytics Thesis
 
